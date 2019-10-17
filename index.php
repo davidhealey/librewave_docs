@@ -1,2 +1,1 @@
-<? 
-echo "HELLO WORLD"
+HELLO WORLD
